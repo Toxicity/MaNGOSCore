@@ -1,0 +1,1 @@
+INSERT INTO `mangos_string` VALUES ('11000', '|cffffcc00[Server]: |cff00ff00%s|r', null, null, null, null, null, null, null, null);
